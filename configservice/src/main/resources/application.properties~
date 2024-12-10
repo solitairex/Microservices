@@ -1,0 +1,7 @@
+spring.application.name=config-service
+spring.profiles.active=default
+server.port=9998
+management.endpoints.web.exposure.include=*
+spring.cloud.config.server.git.uri=file:///C:/Users/Solitaire/IdeaProjects/ez/config-repo
+
+
